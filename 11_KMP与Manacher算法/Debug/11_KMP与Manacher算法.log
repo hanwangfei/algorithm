@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Code\algorithm\11_KMP与Manacher算法\KMP.h(17,13): warning C4018: “<”: 有符号/无符号不匹配
+F:\Code\algorithm\11_KMP与Manacher算法\KMP.h(17,32): warning C4018: “<”: 有符号/无符号不匹配
+F:\Code\algorithm\11_KMP与Manacher算法\KMP.h(48,12): warning C4018: “<”: 有符号/无符号不匹配
+  11_KMP与Manacher算法.vcxproj -> F:\Code\algorithm\11_KMP与Manacher算法\Debug\11_KMP与Manacher算法.exe
