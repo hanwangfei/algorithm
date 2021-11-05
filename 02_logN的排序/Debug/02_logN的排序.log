@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Code\algorithm\02_logN的排序\01_排序.h(11,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  02_logN的排序.vcxproj -> F:\Code\algorithm\02_logN的排序\Debug\02_logN的排序.exe
