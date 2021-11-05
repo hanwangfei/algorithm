@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\Code\algorithm\04_二叉树\01_二叉树.h(367,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\Code\algorithm\04_二叉树\01_二叉树.h(379,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Code\algorithm\04_二叉树\01_二叉树.h(389,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\Code\algorithm\04_二叉树\main.cpp(55,17): warning C4307: “*”: 有符号整型常量溢出
+  04_二叉树.vcxproj -> F:\Code\algorithm\04_二叉树\Debug\04_二叉树.exe
