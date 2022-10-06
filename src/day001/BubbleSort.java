@@ -22,7 +22,6 @@ public class BubbleSort {
 
 
     public static void main(String[] args) {
-        System.out.println("这是测试更改后重新推送到git");
         int[] arr = Utils.getArray(10,0,100);
         System.out.println(Arrays.toString(arr));
         bubbleSort(arr);
